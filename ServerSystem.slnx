@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClientSystem/ClientSystem.csproj" />
+  <Project Path="ServerSystem/ServerSystem.csproj" />
+</Solution>
